@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Artikel Pertama",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat dolor ex, a tincidunt dui volutpat ac.",
+      "tags": [
+        "web",
+        "vue",
+        "node"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artikel Kedua",
+      "body": "Nam dapibus lacus et urna dictum, tincidunt dapibus nisi elementum. Sed efficitur, neque et pulvinar bibendum, felis urna ultricies mi, in porttitor justo mauris nec dui.",
+      "tags": [
+        "js",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "title": "Artikel ketiga",
+      "body": "Isi dari artikel tiga",
+      "tags": [
+        "vue"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Artikel ke empat",
+      "body": "Isi artikel ke empat",
+      "tags": [
+        "vue"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Artikel ke lima",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate hendrerit urna, sit amet eleifend risus rutrum porta. Vivamus massa neque, congue id velit quis, blandit blandit leo. Nam facilisis gravida nunc. In sodales mollis nisl eget efficitur. Aliquam tellus ligula, convallis id euismod vel, venenatis ut lectus. Cras turpis odio, luctus ut feugiat id, rutrum et nunc. Suspendisse tristique aliquam nibh. Aliquam faucibus porttitor lacus vel egestas. Morbi malesuada mauris id euismod feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan nec est sagittis varius. Morbi quis egestas leo.",
+      "tags": [
+        "vue",
+        "javascript",
+        "vue3"
+      ],
+      "id": 5
+    }
+  ]
+}
